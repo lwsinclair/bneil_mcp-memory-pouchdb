@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-bneil-mcp-memory-pouchdb-badge.png)](https://mseep.ai/app/mcp-mirror-bneil-mcp-memory-pouchdb)
+
 # Memory Custom : PouchDB 🧠
 
 [![smithery badge](https://smithery.ai/badge/@bneil/mcp-memory-pouchdb)](https://smithery.ai/server/@bneil/mcp-memory-pouchdb)
